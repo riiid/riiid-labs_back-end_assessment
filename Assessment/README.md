@@ -5,6 +5,8 @@ Design a RESTful API for talks at a conference and attendees. Some sample data i
 ## Requirements
 You can write with any language, framework or tool of your choice to fulfill the assessment.
 
+This assignment is meant to measure candidates' ability to build an API interface with well-designed structure, stability and functionality.
+
 Demonstrate use of REST conventions
 - Create API routes to: 
   - add a talk
