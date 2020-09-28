@@ -1,6 +1,11 @@
-# Assessment
+# Senior Backend Developer: Take-Home Assessment
 
+Design a RESTful API for talks at a conference and attendees. More information and sample data can be found below:
+https://github.com/yuntaechriskim/riiid-labs_back-end_assessment/tree/master/Assessment
+
+## Assignment
 Design a RESTful API for talks at a conference and attendees. Some sample data included in sample.json.
+
 
 ## Requirements
 You can write with any language, framework or tool of your choice to fulfill the assessment.
@@ -19,7 +24,7 @@ Demonstrate use of REST conventions
 
 ### Submission
 
-Open a pull request on this repo including all the files with your full name and email included.
+Email your work to nicola.overstreet@riiid.co
 
 ## Things to consider
 
