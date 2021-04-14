@@ -22,9 +22,11 @@ Demonstrate use of REST conventions
 - (Optional) Execute and describe testing process
 - (Optional) Document and list endpoints with brief explanations
 
+* Extra bonus points to candidates who use Kotlin, Spring Framework (e.g. Boot, Webflux) or gRPC
+
 ### Submission
 
-Email your work to nicola.overstreet@riiid.co
+Email your work to woosuk.chang@riiid.co
 
 ## Things to consider
 
