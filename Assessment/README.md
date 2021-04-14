@@ -22,7 +22,7 @@ Demonstrate use of REST conventions
 - (Optional) Execute and describe testing process
 - (Optional) Document and list endpoints with brief explanations
 
-* Extra bonus points to candidates who use Kotlin, Spring Framework (e.g. Boot, Webflux) or gRPC
+\* Extra bonus points to candidates who use Kotlin, Spring Framework (e.g. Boot, Webflux) or gRPC
 
 ### Submission
 
