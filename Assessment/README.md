@@ -26,7 +26,7 @@ Demonstrate use of REST conventions
 
 ### Submission
 
-Email your work to woosuk.chang@riiid.co
+Email your work to riiidlabs.backend@riiid.co
 
 ## Things to consider
 
