@@ -1,6 +1,6 @@
 # Backend Engineer: Take-Home Assessment
 
-Design a RESTful API for talks at a conference and attendees. Sample data can be found in [sample.json](./sample.json).
+Design a RESTful API for talks at a conference and attendees. Sample data can be found in [sample.json](../sample.json).
 
 Consider this as an opportunity to show off your skills!
 
